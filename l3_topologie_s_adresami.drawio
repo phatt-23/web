@@ -70,7 +70,7 @@
             <mxPoint x="-347.5" y="688" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0l0HvCfX4bjxtaif04-J-21" value="&lt;pre&gt;VLAN A&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="0l0HvCfX4bjxtaif04-J-21" value="&lt;pre style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;VLAN A&lt;/font&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-170" y="601" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0l0HvCfX4bjxtaif04-J-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=4;endArrow=none;endFill=0;" parent="1" source="0l0HvCfX4bjxtaif04-J-25" target="0l0HvCfX4bjxtaif04-J-18" edge="1">
